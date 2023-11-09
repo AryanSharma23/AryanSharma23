@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aryan Sharma
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aryan Sharma
 ====================================================================================================================================
 
-Part-time Data Scientist / Analyst
+Data Scientist / Analyst
 ----------------------------------
 
 I am a Business Analytics student at the Anderson School of Management at UCLA! Over the course of my 25 years of existence, I have developed varying interests across the board, ranging from solo hiking trips to studying chess games. My interests, relevant to this platform, are in data science. I am focused on Machine Learning, and my goal is to bridge the gap between robust data analysis algorithms and their actual implementation to solve business problems. I have more than two years of experience as a Business Analyst at Bain & Company where I designed data-driven models to assist multi-million dollar clients with their business strategies. I also possess skillsets in Python, SQL, Tableau, Java, and Alteryx which keep me aligned with my targets. I am actively seeking Data Science/Analysis roles to gain more industry experience and implement the knowledge gained here at UCLA. So, do contact me if you feel I can be a good fit for your team or if you want to discuss anything else under the sun!
